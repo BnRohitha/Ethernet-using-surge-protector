@@ -1,1 +1,1 @@
-# Ethernet-using-surge-protector
+# Verilog code for Arithmetic Logic Unit
